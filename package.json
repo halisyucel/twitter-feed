@@ -1,0 +1,14 @@
+{
+  "name": "twitter-feed",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/halisycel/twitter-feed.git",
+  "author": "Halis Yücel <isaycel2001@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
